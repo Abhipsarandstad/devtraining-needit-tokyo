@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="DELETE">
+        <dashboard display_value="NeedIt Application">65547d27472b21105f1323dbd36d436a</dashboard>
+        <home>false</home>
+        <homepage/>
+        <order>2</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>abhipsa.jally</sys_created_by>
+        <sys_created_on>2023-06-26 17:21:38</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>90867d27472b21105f1323dbd36d43a5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>65547d27472b21105f1323dbd36d436a</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_90867d27472b21105f1323dbd36d43a5</sys_update_name>
+        <sys_updated_by>abhipsa.jally</sys_updated_by>
+        <sys_updated_on>2023-06-26 17:21:38</sys_updated_on>
+        <tab display_value="NeedIt Application - New Tab 2">d0867d27472b21105f1323dbd36d43a3</tab>
+    </pa_m2m_dashboard_tabs>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>8d27eab6db3814d0601a11f84896197d</instance_id>
+        <instance_name>dev104300</instance_name>
+        <name>pa_m2m_dashboard_tabs_90867d27472b21105f1323dbd36d43a5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs"><pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE"><dashboard display_value="NeedIt Application">65547d27472b21105f1323dbd36d436a</dashboard><home>false</home><homepage/><order>2</order><sys_class_name>pa_m2m_dashboard_tabs</sys_class_name><sys_created_by>abhipsa.jally</sys_created_by><sys_created_on>2023-06-26 17:21:38</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>90867d27472b21105f1323dbd36d43a5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>65547d27472b21105f1323dbd36d436a</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>pa_m2m_dashboard_tabs_90867d27472b21105f1323dbd36d43a5</sys_update_name><sys_updated_by>abhipsa.jally</sys_updated_by><sys_updated_on>2023-06-26 17:21:38</sys_updated_on><tab display_value="NeedIt Application - New Tab 2">d0867d27472b21105f1323dbd36d43a3</tab></pa_m2m_dashboard_tabs></record_update>]]></payload>
+        <payload_hash>-953393820</payload_hash>
+        <record_name>65547d27472b21105f1323dbd36d436a</record_name>
+        <reverted_from/>
+        <source>974d2f9647a361105f1323dbd36d432a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>abhipsa.jally</sys_created_by>
+        <sys_created_on>2023-06-26 17:21:38</sys_created_on>
+        <sys_id>d0867da7472b21105f1323dbd36d43e9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>188f8b9ae0c0000001</sys_recorded_at>
+        <sys_updated_by>abhipsa.jally</sys_updated_by>
+        <sys_updated_on>2023-06-26 17:21:38</sys_updated_on>
+        <type>Dashboard Tab</type>
+        <update_guid>1c867da71a2b211028030269b8eb85e8</update_guid>
+        <update_guid_history>1c867da71a2b211028030269b8eb85e8:-953393820</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="NeedIt Application">2cb739e7472b21105f1323dbd36d439e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>abhipsa.jally</sys_created_by>
+        <sys_created_on>2023-06-26 17:26:50</sys_created_on>
+        <sys_db_object display_value="" name="pa_m2m_dashboard_tabs">pa_m2m_dashboard_tabs</sys_db_object>
+        <sys_id>0299301670974af88dee18d107a45f10</sys_id>
+        <sys_metadata>90867d27472b21105f1323dbd36d43a5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>65547d27472b21105f1323dbd36d436a</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="NeedIt Application">65547d27472b21105f1323dbd36d436a</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>pa_m2m_dashboard_tabs_90867d27472b21105f1323dbd36d43a5</sys_update_name>
+        <sys_update_version display_value="pa_m2m_dashboard_tabs_90867d27472b21105f1323dbd36d43a5">d0867da7472b21105f1323dbd36d43e9</sys_update_version>
+        <sys_updated_by>abhipsa.jally</sys_updated_by>
+        <sys_updated_on>2023-06-26 17:26:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
